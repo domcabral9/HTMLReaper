@@ -1,4 +1,4 @@
-i# HTMLReaper - Parsing HTML para Subdomínios \U0001F577️
+# HTMLReaper - Parsing HTML para Subdomínios
 
 Ferramenta criada para fins educacionais, como parte do desafio prático do Curso **Novo Pentest Profissional** da **DESEC Security**. Essa ferramenta foi desenvolvida com Bash Script puro e tem como objetivo realizar parsing de HTML em busca de subdomínios, resolvendo os IPs associados e exibindo os resultados de forma organizada e colorida no terminal.
 
