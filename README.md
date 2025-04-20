@@ -1,6 +1,6 @@
 # HTMLReaper - Parsing HTML para Subdomínios
 
-Ferramenta criada para fins educacionais, como parte do desafio prático do Curso **Novo Pentest Profissional** da **DESEC Security**. Essa ferramenta foi desenvolvida com Bash Script puro e tem como objetivo realizar parsing de HTML em busca de subdomínios, resolvendo os IPs associados e exibindo os resultados de forma organizada e colorida no terminal.
+Ferramenta criada para fins educacionais, como parte do desafio prático do Curso **Novo Pentest Profissional** da **DESEC Security**. Essa ferramenta foi desenvolvida com Bash Script puro e tem como objetivo realizar parsing de HTML em busca de subdomínios, resolvendo os IPs associados e exibindo os resultados no terminal.
 
 ---
 
@@ -44,7 +44,7 @@ Este projeto tem **fins educacionais**. O uso para fins maliciosos é expressame
 
 ## 🌐 ENGLISH VERSION
 
-# HTMLReaper - HTML Parsing for Subdomains \U0001F577️
+# HTMLReaper - HTML Parsing for Subdomains
 
 Tool created for educational purposes as part of the **Novo Pentest Profissional** course by **DESEC Security**. Developed in pure Bash, this tool performs HTML parsing to extract subdomains, resolves their associated IPs, and displays the results in a clean and colorful terminal interface.
 
