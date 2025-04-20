@@ -4,7 +4,7 @@
 # Ferramenta: HTMLReaper
 # Versão: 1.0
 # Descrição: Busca subdomínios em páginas HTML e resolve IPs.
-# Autor: você mesmo, claro 😎
+# Autor: domcabral9
 # Pré-requisitos: dig, nslookup, grep, awk, sort, wget
 # =============================
 
